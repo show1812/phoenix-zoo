@@ -1,0 +1,13 @@
+<svg id="コンポーネント_4" data-name="コンポーネント 4" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <circle id="楕円形_6" data-name="楕円形 6" cx="25" cy="25" r="25" fill="#5a5757"/>
+  <text id="Page" transform="translate(15 31)" fill="#e9e9e9" font-size="8" font-family="Meiryo"><tspan x="0" y="0">Page</tspan></text>
+  <text id="Top" transform="translate(18 40)" fill="#e9e9e9" font-size="8" font-family="Meiryo"><tspan x="0" y="0">Top</tspan></text>
+  <g id="グループ_11" data-name="グループ 11" transform="translate(-534.5 -740)">
+    <line id="線_57" data-name="線 57" y2="7" transform="translate(559 744.17) rotate(30)" fill="none" stroke="#e9e9e9" stroke-width="1"/>
+    <line id="線_58" data-name="線 58" y2="7" transform="translate(559 744.17) rotate(-30)" fill="none" stroke="#e9e9e9" stroke-width="1"/>
+  </g>
+  <g id="グループ_12" data-name="グループ 12" transform="translate(-534.5 -733.83)">
+    <line id="線_57-2" data-name="線 57" y2="7" transform="translate(559 744.17) rotate(30)" fill="none" stroke="#e9e9e9" stroke-width="1"/>
+    <line id="線_58-2" data-name="線 58" y2="7" transform="translate(559 744.17) rotate(-30)" fill="none" stroke="#e9e9e9" stroke-width="1"/>
+  </g>
+</svg>
