@@ -42,7 +42,7 @@ if (window.matchMedia("(min-width: 600px)").matches) {
     $(function () {
         $('.background-slider').slick({
             autoplay: true,
-            autoplaySpeed: 5000,
+            autoplaySpeed: 3000,
             fade: true,
         });
     });
