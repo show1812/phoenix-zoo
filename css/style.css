@@ -121,7 +121,7 @@ a:visited {
 /* ハンバガーメニュー開閉アニメーション */
 
 .nav {
-    pointer-events: none;
+    /* pointer-events: none; */
     opacity: 0;
     /* transform-origin: center 100%; */
     /* transform: scale(.5); */
@@ -309,6 +309,11 @@ a:visited {
     text-align: center;
 }
 
+.menu-box .submenu li {
+    border-bottom: none;
+    padding: 0.5rem 0;
+}
+
 .menu-box ul .has-child {
     position: relative;
 }
@@ -319,6 +324,14 @@ a:visited {
 
 .menu-box ul li .submenu a {
     font-size: 1.4rem;
+}
+
+.menu-box ul .has-child.active::after {
+    content: "";
+    position: absolute;
+    right: 10px;
+    top: .5em;
+    transform: rotate(405deg);
 }
 
 .alert {
@@ -361,6 +374,7 @@ a:visited {
     animation-delay: .3s;
 }
 
+/* チケット購入ボタン、カーソルを合わせると動くアニメーション */
 @-webkit-keyframes swing2 {
     10% {
         -webkit-transform: rotate(-10deg);
